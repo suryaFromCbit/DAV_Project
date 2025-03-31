@@ -53,5 +53,5 @@ This project explores the **Titanic Survival Dataset** using **Exploratory Data 
 - Explore more **advanced visualization techniques**.
 
 ---
-✉️ Feel free to contribute or reach out for discussions! 🚀
+✉️ Feel free to reach out for discussions! 🚀
 
